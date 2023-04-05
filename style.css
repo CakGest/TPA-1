@@ -92,7 +92,7 @@ h2 {
     line-height: 50px;
 }
 
-a.tbl-biru {
+a.tbl-cklt {
     background: #655c56;
     border-radius: 20px;
     margin-top: 20px;
@@ -102,22 +102,7 @@ a.tbl-biru {
     font-weight: bold;
 }
 
-a.tbl-biru:hover {
-    background: #014646;
-    text-decoration: none;
-}
-
-a.tbl-pink {
-    background: #655c56;
-    border-radius: 20px;
-    margin-top: 20px;
-    padding: 15px 20px 15px 20px;
-    color: #ffffff;
-    cursor: pointer;
-    font-weight: bold;
-}
-
-a.tbl-pink:hover {
+a.tbl-cklt:hover {
     background: #014646;
     text-decoration: none;
 }
